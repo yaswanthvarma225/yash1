@@ -16,6 +16,6 @@
    </head>
 
    <body>
-      <img src="http://www.goodmorningimagesdownload.com/i-love-you/"  width="200" height="80">
+      <img src="http://www.goodmorningimagesdownload.com/i-love-you/" >
    </body>
 </html>
