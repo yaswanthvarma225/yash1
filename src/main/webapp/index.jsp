@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2> Nenu Pichidhani </h2>
-<h2> Nenu Budabukaldhana </h2>
+<h2> Nenu Budabukaldhani </h2>
 </body>
 </html>
